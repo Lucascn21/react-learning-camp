@@ -1,0 +1,35 @@
+body {
+  background-color: #212121;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-size: 1.5em;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffc83f;
+  font-weight: bold;
+}
+
+#title {
+  border-radius: 1rem;
+  background-color: #333333;
+  padding: 1rem;
+}
+
+.cool {
+  border: 1px solid #ffffff;
+  margin: 1rem;
+  color: #fdfdfd;
+  background-color: hsl(0, 0%, 27%);
+  padding: 1.5rem;
+  box-shadow: 0 0 0.5rem rgba(255, 255, 255, 0.2);
+}
+
+.cool > b {
+  color: hsl(43, 100%, 62%);
+  font-style: italic;
+}
