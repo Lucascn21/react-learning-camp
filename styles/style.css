@@ -1,17 +1,16 @@
 body {
-  background-color: #222222;
+  background-color: #212121;
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: 450;
   font-style: normal;
-  font-size: large;
+  font-size: 1.5em;
 }
 
 h1 {
   text-align: center;
   text-transform: uppercase;
-  color: #ff6a00;
-  font-size: 1.5rem;
+  color: #ffc83f;
   font-weight: bold;
 }
 
@@ -24,13 +23,13 @@ h1 {
 .cool {
   border: 1px solid #ffffff;
   margin: 1rem;
-  color: #29b1ff;
+  color: #fdfdfd;
   background-color: hsl(0, 0%, 27%);
   padding: 1.5rem;
   box-shadow: 0 0 0.5rem rgba(255, 255, 255, 0.2);
 }
 
 .cool > b {
-  color: rgb(172, 235, 48);
+  color: hsl(43, 100%, 62%);
   font-style: italic;
 }
